@@ -1,0 +1,5 @@
+C:\Users\dell\Lectures\Day 24\User Registration By Lambda\User Registration By Lambda\obj\Debug\netcoreapp3.1\User Registration By Lambda.csproj.AssemblyReference.cache
+C:\Users\dell\Lectures\Day 24\User Registration By Lambda\User Registration By Lambda\obj\Debug\netcoreapp3.1\User Registration By Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Lectures\Day 24\User Registration By Lambda\User Registration By Lambda\obj\Debug\netcoreapp3.1\User Registration By Lambda.AssemblyInfoInputs.cache
+C:\Users\dell\Lectures\Day 24\User Registration By Lambda\User Registration By Lambda\obj\Debug\netcoreapp3.1\User Registration By Lambda.AssemblyInfo.cs
+C:\Users\dell\Lectures\Day 24\User Registration By Lambda\User Registration By Lambda\obj\Debug\netcoreapp3.1\User Registration By Lambda.csproj.CoreCompileInputs.cache
